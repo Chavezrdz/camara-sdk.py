@@ -67,4 +67,4 @@ Next Steps
 Contact
 =======
 
-In case of any questions please contact developers@telekom.de. For issues with the camara qod specification, please file an issue [here](https://github.com/camaraproject/QualityOnDemand/issues/new).
+In case of any questions please contact developers@telekom.de. For issues with the camara qod specification, please file an issue [here](https://github.com/camaraproject/QualityOnDemand/issues/new)..
